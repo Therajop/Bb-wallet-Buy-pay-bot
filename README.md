@@ -82,9 +82,10 @@ See all your transactions in the **History** page with date & time.
 ---
 
 ## 📌 How to Install  
-1. Upload all files to your hosting  
-2. Set Webhook from BotFather  
-3. Start Bot with **/start**  
+1. import this repo in bb 
+2. Set token from BotFather
+3. follow all Process 
+4. Start Bot with **/start**  
 
 ---
 
