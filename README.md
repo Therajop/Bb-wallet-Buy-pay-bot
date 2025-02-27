@@ -1,3 +1,109 @@
+# BB Point Bot (Beta)  
+**Version: 1.0.0**  
+
+---
+
+## 🔥 Features  
+- ✅ Pay BB Point to anyone using their Telegram ID with **PIN security**  
+- 💰 Buy BB Points at **Cheap Rate** (Default ₹1 = 2 BB Points)  
+- 📲 QR Scan Payment System  
+- 🔒 Set & Change Payment PIN  
+- 💸 Withdraw BB Points Anytime  
+- 🎯 Refer & Earn (**1 BBP per Refer**)  
+- 📄 Full Transaction History  
+- 🔗 My QR - Accept Payments through Your QR Code  
+
+---
+
+## 💪 How It Works  
+1. **Set Your PIN** (Required for Payment & Withdrawal)  
+2. **Add Funds** by paying money  
+3. Use **Payto ID** to pay others or **Scan QR**  
+4. Refer your friends & Earn BB Points  
+5. Withdraw your BB Points anytime  
+
+---
+
+## ⚙️ Setup  
+### 1. Webpage Setup  
+- Go to `webpage/` folder  
+- Edit all HTML & JS files  
+- Replace your **BOT ID** in every file  
+
+### 2. API Setup  
+- Go to `api/` folder  
+- Add your **Bot Token**  
+- Adjust webhook URL according to your hosting  
+
+### 3. Rate Setup  
+- Default: ₹1 = **2 BB Points**  
+- Change this in:  
+  - `webpage/addfund.html`  
+  - `webpage/js/main.js`  
+
+---
+
+## 🔑 PIN System  
+| Action    | Description         |  
+|-----------|-------------------|  
+| Set Pin   | Set your Payment PIN |  
+| Change Pin| Update your PIN anytime |  
+| Security  | Payment & Withdrawal requires PIN |  
+
+---
+
+## 💰 BB Point Rates  
+| Amount (₹) | BB Points |  
+|------------|-----------|  
+| 1₹         | 2 BB Points |  
+| 10₹        | 20 BB Points |  
+| 100₹       | 200 BB Points |  
+
+---
+
+## 🤝 Refer & Earn  
+- Share your **Referral Link**  
+- Get **1 BB Point** per referral *(You can change this from Start Command)*  
+
+---
+
+## 📄 History  
+See all your transactions in the **History** page with date & time.  
+
+---
+
+## 🛠️ Developer Setup  
+| File               | Description        |  
+|------------------|-------------------|  
+| `webpage/addfund.html` | BB Point Rate Setup |  
+| `api/main.js`      | API Code & Webhook |  
+| `webpage/js/main.js` | PIN System & Payment Functions |  
+
+---
+
+## 📌 How to Install  
+1. Upload all files to your hosting  
+2. Set Webhook from BotFather  
+3. Start Bot with **/start**  
+
+---
+
+## 🚀 Developer  
+**@Thecoder_Raj**  
+BB Webapp Contest 2025  
+
+---
+
+## ⚠️ Disclaimer  
+This is a **Beta Version**. Any loss of BB Points due to bugs will not be refunded.  
+
+---
+
+### 🎯 contact me for Updates  
+[@Thecoder_Raj](https://t.me/Thecoder_raj)
+
+
+
 # Bb_webapp_bot - chat bot
 It is repository for chat bot: [@Bb_webapp_bot](https://t.me/Bb_webapp_bot)
 
