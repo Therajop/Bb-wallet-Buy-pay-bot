@@ -76,8 +76,8 @@ See all your transactions in the **History** page with date & time.
 | File               | Description        |  
 |------------------|-------------------|  
 | `webpage/addfund.html` | BB Point Rate Setup |  
-| `api/main.js`      | API Code & Webhook |  
-| `webpage/js/main.js` | PIN System & Payment Functions |  
+| `api/`      | API Code & Webhook |  
+| `webpage/SetPin.html` | PIN System |  
 
 ---
 
