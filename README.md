@@ -2,7 +2,7 @@
 **Version: 1.0.0**  
 
 ---
-**Note - The add fund Option And code only work for Indian (INR) PAY THROUGH INR **
+*Note - The add fund Option And code only work for Indian (INR) PAY THROUGH INR(UPI)*
 ## 🔥 Features  
 - ✅ Pay BB Point to anyone using their Telegram ID with **PIN security**  [Paytoid.html.js]
 - 💰 Buy BB Points at **Cheap Rate** (Default ₹1 = 2 BB Points)  [addfund.html.js]
