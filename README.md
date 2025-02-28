@@ -4,14 +4,14 @@
 ---
 
 ## 🔥 Features  
-- ✅ Pay BB Point to anyone using their Telegram ID with **PIN security**  
-- 💰 Buy BB Points at **Cheap Rate** (Default ₹1 = 2 BB Points)  
-- 📲 QR Scan Payment System  
-- 🔒 Set & Change Payment PIN  
-- 💸 Withdraw BB Points Anytime  
-- 🎯 Refer & Earn (**1 BBP per Refer**)  
-- 📄 Full Transaction History  
-- 🔗 My QR - Accept Payments through Your QR Code  
+- ✅ Pay BB Point to anyone using their Telegram ID with **PIN security**  [Paytoid.html.js]
+- 💰 Buy BB Points at **Cheap Rate** (Default ₹1 = 2 BB Points)  [addfund.html.js]
+- 📲 QR Scan Payment System  in [Paytoqr.html.js]
+- 🔒 Set & Change Payment PIN  [Setpin.html.js]
+- 💸 Withdraw BB Points Anytime  [withdrawal.html.js]
+- 🎯 Refer & Earn (**1 BBP per Refer**)  [index.html.js for get link]
+- 📄 Full Transaction History  [Transactions.html.js]
+- 🔗 My QR - Accept Payments through Your QR Code  [myqr.html.js]
 
 ---
 
