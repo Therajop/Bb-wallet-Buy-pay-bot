@@ -26,7 +26,7 @@ if (params == userId) { Api.sendMessage({ text: "OPEN WEBAPP", reply_markup: { i
 if (joinedUsers[userId]) { Api.sendMessage({ text: "OPEN WEBAPP", reply_markup: { inline_keyboard: [ [ { text: "Open App", web_app: { url: url } } ] ] } }); } else {  joinedUsers[userId] = true; Bot.setProp("joined_users", joinedUsers, "json");
 
 Api.sendMessage({
-  text: "🔥 Welcome to BB Point Bot\nHello Sir,\nI'm your **BB Payment Bot 🤖**\n\nHere you can **Pay, Buy, Withdraw & Refer BB Points** with full **PIN Security 🔑**\n\n✅ Features:\n➤ Pay BB Point to Anyone\n➤ Buy BB Point at Cheap Rate\n➤ Instant Withdrawal\n➤ QR Scan Payment\n➤ Refer & Earn\n\nUse the **Open WebApp** button to Explore 🔥\nLet's Get Started 🚀!",
+  text: "🔥 Welcome to BB Point Bot\nHello Sir,\nI'm your *BB Payment Bot 🤖*\n\nHere you can *Pay, Buy, Withdraw & Refer BB Points* with full *PIN Security 🔑*\n\n✅ Features:\n➤ Pay BB Point to Anyone\n➤ Buy BB Point at Cheap Rate\n➤ Instant Withdrawal\n➤ QR Scan Payment\n➤ Refer & Earn\n\nUse the *Open WebApp* button to Explore 🔥\nLet's Get Started 🚀!",
   parse_mode: "Markdown",
   reply_markup: {
     inline_keyboard: [
