@@ -1,4 +1,4 @@
-# BB Point Bot (Beta)  
+# BB Wallet Buy & Pay Bot (Beta)  
 **Version: 1.0.0**  
 
 ---
